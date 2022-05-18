@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Erzhena
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me (Telegram): @erzhenochka
